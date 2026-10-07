@@ -1,2 +1,0 @@
-repo=d-12d4bd75
-file=lyn0-mission-02-42caaac6.zip
